@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ☁️ Bootcamp AWS re/Start - Escola da Nuvem
 
 Repositório criado para documentar minha jornada de aprendizado rumo à certificação **AWS Certified Cloud Practitioner**.
@@ -35,3 +36,7 @@ Consolidar conhecimentos sobre computação em nuvem e me preparar para o exame 
 
 ## 💬 Contato
 Feito com ☕ por [Paty](https://github.com/)  
+=======
+# aws-restart-cloud-practitioner
+Minha Trajetória de Estudo para a Certificação AWS Cloud Practitioner
+>>>>>>> c5998a14edd04272ef7bd479bd68fd7ebf62e153
