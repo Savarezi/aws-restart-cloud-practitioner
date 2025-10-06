@@ -1,8 +1,11 @@
-<<<<<<< HEAD
+
 # ☁️ Bootcamp AWS re/Start - Escola da Nuvem
 
 Repositório criado para documentar minha jornada de aprendizado rumo à certificação **AWS Certified Cloud Practitioner**.
 Aqui registro anotações, resumos e práticas dos laboratórios do programa **AWS re/Start**, oferecido pela **Escola da Nuvem**.
+##
+<img width="474" height="178" alt="image" src="https://github.com/user-attachments/assets/f23e054a-0f0d-48b9-a589-019ed1d16a23" />
+
 
 ---
 
@@ -26,17 +29,22 @@ Consolidar conhecimentos sobre computação em nuvem e me preparar para o exame 
 ## 📈 Progresso
 - [x] Cloud Foundations
 - [x] Redes
-- [x] Segurança
-- [x] Bases de Dados
-- [x] Jumpstart AWS
+- [ ] Segurança
+- [ ] Bases de Dados
+- [ ]  Jumpstart AWS
 - [ ] Jumpstart AWS Avançado
 - [ ] Preparação para Certificação
 
 ---
 
 ## 💬 Contato
-Feito com ☕ por [Paty](https://github.com/)  
+Feito com ☕ por Patricia Oliveira  
 =======
 # aws-restart-cloud-practitioner
 Minha Trajetória de Estudo para a Certificação AWS Cloud Practitioner
->>>>>>> c5998a14edd04272ef7bd479bd68fd7ebf62e153
+### 📬 Conecte-se comigo:
+
+<a href = "mailto:patriciaoliveirasavarezi@gmail.com"><img src="https://img.shields.io/badge/-Email-67cb57?style=for-the-badge&logo=gmail&logoColor=fff"></a>
+<a href="https://www.linkedin.com/in/savarezi"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+<a href="https://discord.gg/nGV6mJyA"><img src="https://img.shields.io/badge/-Discord-67cb57?style=for-the-badge&logo=discord&logoColor=fff"></a>
+---
