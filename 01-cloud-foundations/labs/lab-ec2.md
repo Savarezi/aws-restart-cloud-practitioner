@@ -1,5 +1,10 @@
 # 🧪 Labs/Lab Ec2
 
+
+<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/0fd94fac-24eb-4276-9d46-5925066adf46" />
+
+
+
 ## 🎯 Objetivo
 Este laboratório apresenta uma visão geral básica de como executar, redimensionar, gerenciar e monitorar uma instância do Amazon EC2.
 
