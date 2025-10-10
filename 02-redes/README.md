@@ -131,6 +131,9 @@ echo '<!DOCTYPE html>
 
 ```
 
+<img width="1365" height="660" alt="Screenshot 2025-10-10 172905" src="https://github.com/user-attachments/assets/8b9d97d2-f774-4a0a-bf54-ab19d27a5f82" />
+
+
 🧱 Arquitetura Final Implantada
 
 A infraestrutura resultante incluiu:
