@@ -126,7 +126,9 @@ segunda linha bgcolor="aquamarine" → bgcolor="gainsboro"
 💡 Resultado
 
 ✅ Foi possível hospedar um site estático completo no Amazon S3.
+
 ✅ O upload e atualização dos arquivos foram automatizados via script shell.
+
 ✅ O laboratório reforçou conceitos de:
 
 * Configuração de buckets públicos
