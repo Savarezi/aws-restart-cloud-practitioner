@@ -34,6 +34,8 @@ Durante o laboratório, foram utilizados serviços como **EC2**, **S3**, **IAM**
 
 * Nome do bucket: seu-bucket-nome-aqui
 
+##
+
 🧍‍♀️ 3. Criação de usuário IAM
 
 * Criação do usuário awsS3user com acesso programático.
