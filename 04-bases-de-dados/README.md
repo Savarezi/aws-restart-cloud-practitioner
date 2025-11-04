@@ -45,3 +45,6 @@ Consolidar os fundamentos de **bancos de dados na AWS**, entendendo na prática:
 ## 💬 Observações
 Esses laboratórios reforçam a importância de **entender o modelo de dados antes da escolha do serviço**, destacando a **escalabilidade do DynamoDB** e a **robustez do RDS** em ambientes transacionais.
 
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/7e84ed41-3cf9-475f-b4cf-68e96add0478" />
+
+
