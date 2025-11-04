@@ -1,4 +1,5 @@
 # 📘 04 Bases De Dados
+<img width="298" height="169" alt="image" src="https://github.com/user-attachments/assets/3932b475-1700-44d1-a541-16efe2e9a6a2" />
 
 ##  Descrição
 Esta pasta contém os **laboratórios práticos** do módulo **04 – Bases de Dados** do programa **AWS re/Start**.  
