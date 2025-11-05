@@ -1,5 +1,7 @@
 
 # ☁️ Bootcamp AWS re/Start - Escola da Nuvem
+<img width="276" height="182" alt="image" src="https://github.com/user-attachments/assets/c011d5fb-edab-4719-92e5-954b9808c2e8" />
+
 
 Repositório criado para documentar minha jornada de aprendizado rumo à certificação **AWS Certified Cloud Practitioner**.
 Aqui registro anotações, resumos e práticas dos laboratórios do programa **AWS re/Start**, oferecido pela **Escola da Nuvem**.
