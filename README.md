@@ -31,20 +31,22 @@ Consolidar conhecimentos sobre computação em nuvem e me preparar para o exame 
 ## 📈 Progresso
 - [x] Cloud Foundations
 - [x] Redes
-- [ ] Segurança
-- [ ] Bases de Dados
-- [ ]  Jumpstart AWS
-- [ ] Jumpstart AWS Avançado
-- [ ] Preparação para Certificação
+- [x] Segurança
+- [x] Bases de Dados
+- [x] Jumpstart AWS
+- [x] Jumpstart AWS Avançado
+- [x] Preparação para Certificação
 
 ---
 
 ## 💬 Contato
 <a href="https://www.linkedin.com/in/savarezi"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
-<a href="https://discord.gg/nGV6mJyA"><img src="https://img.shields.io/badge/-Discord-67cb57?style=for-the-badge&logo=discord&logoColor=fff"></a>
 ---
-Feito com ☕ por Patricia Oliveira  
-=======
-# aws-restart-cloud-practitioner
+
+* Feito com ☕ por Patricia Oliveira  
+##
+* aws-restart-cloud-practitioner
+
+
 **Trajetória de Estudo para a Certificação AWS Cloud Practitioner📚**
 
