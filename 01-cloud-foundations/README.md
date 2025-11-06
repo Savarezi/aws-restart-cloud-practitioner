@@ -20,17 +20,23 @@ O módulo Cloud Foundations apresenta os conceitos fundamentais de computação 
 
 🔹 Principais tópicos estudados:
 
-Conceito de Cloud Computing: modelos de implantação (Nuvem Pública, Privada e Híbrida) e modelos de serviço (IaaS, PaaS e SaaS).
+* Conceito de Cloud Computing: modelos de implantação (Nuvem Pública, Privada e Híbrida) e modelos de serviço (IaaS, PaaS e SaaS).
 
-Benefícios da Nuvem: escalabilidade, elasticidade, alta disponibilidade, segurança e otimização de custos.
+  <img width="281" height="179" alt="image" src="https://github.com/user-attachments/assets/a1193c22-ab76-43e0-bb1f-85036b8028be" />
 
-Arquitetura da AWS: visão geral das regiões, zonas de disponibilidade e pontos de presença.
 
-Responsabilidade Compartilhada: diferença entre o que é responsabilidade da AWS e do cliente.
+* Benefícios da Nuvem: escalabilidade, elasticidade, alta disponibilidade, segurança e otimização de custos.
 
-Ferramentas de Acesso: introdução ao AWS Management Console, AWS CLI e CloudShell.
+* Arquitetura da AWS: visão geral das regiões, zonas de disponibilidade e pontos de presença.
 
-Boas práticas: importância do controle de custos, uso eficiente dos recursos e segurança de credenciais.
+* Responsabilidade Compartilhada: diferença entre o que é responsabilidade da AWS e do cliente.
+
+* Ferramentas de Acesso: introdução ao AWS Management Console, AWS CLI e CloudShell.
+
+* Boas práticas: importância do controle de custos, uso eficiente dos recursos e segurança de credenciais.
+
+  ##
 
 💡 Resumo final:
+
 Esse módulo é a base para todo o aprendizado em nuvem — o primeiro passo para entender como projetar, implementar e gerenciar soluções na AWS de forma prática e segura.
