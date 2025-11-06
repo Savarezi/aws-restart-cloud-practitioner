@@ -2,6 +2,9 @@
 
 Este repositório contém laboratórios práticos do programa **AWS Jumpstart**, focados em serviços essenciais da AWS e na utilização da AWS CLI para gerenciamento de recursos. Ele serve como material de estudo e referência prática para aprender a criar, configurar e gerenciar serviços da AWS diretamente pelo console ou via linha de comando.
 
+<img width="319" height="158" alt="image" src="https://github.com/user-attachments/assets/b3ccfdcc-857c-4727-a26a-d606553d896b" />
+
+
 ## Estrutura da pasta
 
 A pasta contém os seguintes laboratórios:
