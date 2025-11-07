@@ -119,6 +119,16 @@ Além dos Labs, o programa incluiu sessões de verificação de conhecimento (KC
 * Balanceamento - Dimensionamento - Monitoramento
 ##
 ---
+## 🛠️ Tecnologias Principais
+
+* **Compute:** Amazon EC2, AWS Lambda, Elastic Load Balancing (ELB), Auto Scaling.
+* **Storage:** Amazon S3, Amazon EBS, Amazon Glacier.
+* **Networking:** Amazon VPC, Route 53.
+* **Security & Identity:** AWS IAM, Security Groups, AWS CloudTrail.
+* **Databases:** Amazon RDS, Amazon DynamoDB.
+* **Automation & Architecture:** AWS CloudFormation, AWS Well-Architected Framework.
+
+---
 
 ## 🎯 Conclusão e Próximos Passos
 
@@ -136,6 +146,4 @@ Meu objetivo é continuar aprimorando este conhecimento, aplicando as práticas 
 <a href="https://www.linkedin.com/in/savarezi">
   <img src="https://img.shields.io/badge/-LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=fff">
 </a>
-
-
 
