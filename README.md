@@ -15,12 +15,12 @@ As pastas a seguir organizam os **Laboratórios Práticos (Labs)** e os projetos
 
 | Módulo | Pasta | Resoluções de Labs |
 | :--- | :--- | :--- |
-| **01** | [`01-fundamentos-de-nuvem`](01-fundamentos-de-nuvem) | ✅ Contém Labs e exercícios de Fundamentos. |
+| **01** | [`01-cloud-foundations`](01-cloud-foundations) | ✅ Contém Labs e exercícios de Fundamentos de Nuvem. |
 | **02** | [`02-redes`](02-redes) | ✅ Contém Labs e exercícios de Redes (VPC). |
 | **03** | [`03-seguranca`](03-seguranca) | ✅ Contém Labs e exercícios de Segurança (IAM, Security Groups, etc.). |
 | **04** | [`04-bases-de-dados`](04-bases-de-dados) | ✅ Contém Labs e exercícios de Bases de Dados (RDS, DynamoDB, etc.). |
 | **05** | [`05-jumpstart-aws`](05-jumpstart-aws) | ✅ Contém Labs e exercícios de Jumpstart AWS (Básico). |
-| **06** | [`06-jumpstart-aws-avançado`](06-jumpstart-aws-avançado) | ✅ Contém Labs e exercícios de Jumpstart AWS (Avançado, ex: CloudFormation). |
+| **06** | [`06-jumpstart-aws-avancado`](06-jumpstart-aws-avancado) | ✅ Contém Labs e exercícios de Jumpstart AWS (Avançado, ex: CloudFormation). |
 | **07** | [`07-preparacao-para-certificacao`](07-preparacao-para-certificacao) | ✅ Contém materiais e exercícios de Preparação para a Certificação. |
 
 ---
