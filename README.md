@@ -9,17 +9,19 @@ Este repositório documenta minha jornada de aprendizado e as atividades prátic
 
 ## 📂 Estrutura de Labs e Resoluções
 
-As patas a seguir organizo os **Laboratórios Práticos (Labs)** e os projetos realizados em cada módulo do bootcamp. Dentro de cada pasta, você encontrará a resolução, arquivos de configuração e documentação dos tópicos abordados.
+## 📂 Estrutura de Labs e Resoluções
+
+As pastas a seguir organizam os **Laboratórios Práticos (Labs)** e os projetos realizados em cada módulo do bootcamp. Dentro de cada pasta, você encontrará a resolução, arquivos de configuração e documentação dos tópicos abordados.
 
 | Módulo | Pasta | Resoluções de Labs |
 | :--- | :--- | :--- |
-| **01** | `01-fundamentos-de-nuvem` | ✅ Contém Labs e exercícios de Fundamentos. |
-| **02** | `02-redes` | ✅ Contém Labs e exercícios de Redes (VPC). |
-| **03** | `03-seguranca` | ✅ Contém Labs e exercícios de Segurança (IAM, Security Groups, etc.). |
-| **04** | `04-bases-de-dados` | ✅ Contém Labs e exercícios de Bases de Dados (RDS, DynamoDB, etc.). |
-| **05** | `05-jumpstart-aws` | ✅ Contém Labs e exercícios de Jumpstart AWS (Básico). |
-| **06** | `06-jumpstart-aws-avançado` | ✅ Contém Labs e exercícios de Jumpstart AWS (Avançado, ex: CloudFormation). |
-| **07** | `07-preparacao-para-certificacao` | ✅ Contém materiais e exercícios de Preparação para a Certificação. |
+| **01** | [`01-fundamentos-de-nuvem`](01-fundamentos-de-nuvem) | ✅ Contém Labs e exercícios de Fundamentos. |
+| **02** | [`02-redes`](02-redes) | ✅ Contém Labs e exercícios de Redes (VPC). |
+| **03** | [`03-seguranca`](03-seguranca) | ✅ Contém Labs e exercícios de Segurança (IAM, Security Groups, etc.). |
+| **04** | [`04-bases-de-dados`](04-bases-de-dados) | ✅ Contém Labs e exercícios de Bases de Dados (RDS, DynamoDB, etc.). |
+| **05** | [`05-jumpstart-aws`](05-jumpstart-aws) | ✅ Contém Labs e exercícios de Jumpstart AWS (Básico). |
+| **06** | [`06-jumpstart-aws-avançado`](06-jumpstart-aws-avançado) | ✅ Contém Labs e exercícios de Jumpstart AWS (Avançado, ex: CloudFormation). |
+| **07** | [`07-preparacao-para-certificacao`](07-preparacao-para-certificacao) | ✅ Contém materiais e exercícios de Preparação para a Certificação. |
 
 ---
 ### 🧪 Laboratórios Práticos (Labs)
