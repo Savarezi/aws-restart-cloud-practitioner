@@ -9,7 +9,7 @@ Este repositório documenta minha jornada de aprendizado e as atividades prátic
 
 ## 📂 Estrutura de Labs e Resoluções
 
-As pastas a seguir organizam os **Laboratórios Práticos (Labs)** e os projetos realizados em cada módulo do bootcamp. Dentro de cada pasta, você encontrará a resolução, arquivos de configuração e documentação dos tópicos abordados.
+As patas a seguir organizo os **Laboratórios Práticos (Labs)** e os projetos realizados em cada módulo do bootcamp. Dentro de cada pasta, você encontrará a resolução, arquivos de configuração e documentação dos tópicos abordados.
 
 | Módulo | Pasta | Resoluções de Labs |
 | :--- | :--- | :--- |
