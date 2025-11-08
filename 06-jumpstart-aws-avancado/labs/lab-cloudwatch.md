@@ -1,4 +1,5 @@
-# 🧪 Labs/Lab Cloudwatch
+# 🧪 Labs/Lab Cloudwatch - Monitorar a infraestrutura
+
 
 ## 🎯 Objetivo
 (Descreva o objetivo principal do laboratório.)
