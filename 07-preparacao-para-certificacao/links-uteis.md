@@ -2,6 +2,9 @@
 
 Esta seção compila links e materiais de estudo cruciais para a preparação do exame, abrangendo documentação oficial, prática de simulados e guias de referência.
 
+<img width="402" height="125" alt="image" src="https://github.com/user-attachments/assets/79df4075-8095-4aa1-8c19-2c7bdb228a9c" />
+
+
 ## 📚 Documentação Oficial da AWS e Guias de Estudo
 
 * **Guia do Exame (Exam Guide):** O documento oficial que detalha os domínios, os tópicos específicos e o peso de cada seção do exame (Cloud Concepts, Security, Technology, Billing & Pricing).
