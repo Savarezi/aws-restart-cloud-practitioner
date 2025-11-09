@@ -1,5 +1,7 @@
 
 # 🚀 Preparação Final: AWS Certified Cloud Practitioner (CLF-C01)
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/903646cb-fc5a-40b2-89cb-f8e1a81121e6" />
+
 
 Esta pasta concentra os materiais finais de estudo, prática e revisão para a certificação **AWS Certified Cloud Practitioner (CLF-C01)**.
 
