@@ -21,6 +21,9 @@ Utilize os arquivos abaixo para guiar sua revisão:
 | :--- | :--- | :--- |
 | [`simulados-pratica.md`](simulados-pratica.md) | **60 Questões de Prática** com Gabarito e Explicações Detalhadas. | Teste de Conhecimento e Estratégia de Resolução. |
 | [`links-uteis.md`](links-uteis.md) | Links essenciais para a **Documentação Oficial da AWS**, Guias de Exame e Simulados Online. | Revisão Teórica e Referência. |
+| [`referencia-servicos-principais.md`](referencia-servicos-principais.md) | **Cheat Sheet** dos serviços AWS mais importantes por categoria. | Revisão Rápida e Memorização (Véspera da Prova). |
+| [`resumo-responsabilidade-compartilhada.md`](resumo-responsabilidade-compartilhada.md) | **Resumo do Modelo de Responsabilidade Compartilhada** e divisão por modelos (IaaS, PaaS, SaaS). | Conceito Chave de Segurança (CLF-C01). |
+
 
 ---
 
