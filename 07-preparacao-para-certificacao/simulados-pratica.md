@@ -1,4 +1,6 @@
 # 🧪 Simulados AWS Cloud Practitioner (60 Questões de Prática)
+<img width="324" height="155" alt="image" src="https://github.com/user-attachments/assets/ead1fbfe-c904-471b-aaa9-d4f65270b77b" />
+
 
 Este arquivo contém **60 questões** (15 por domínio) com respostas corretas e explicações detalhadas.
 Use-o como um teste prático de revisão dos conceitos principais da certificação **AWS Certified Cloud Practitioner (CLF-C01)**.
